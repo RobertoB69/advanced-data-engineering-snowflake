@@ -1,5 +1,5 @@
 USE ROLE accountadmin;
-USE WAREHOUSE compute_wh;
+USE WAREHOUSE ADMIN_WH;
 
 USE DATABASE tasty_bytes;
 DROP VIEW tasty_bytes.harmonized.daily_weather_v;
